@@ -176,7 +176,7 @@ Regression Metrics
 ## 🌐 Live Dashboard
 
 
-(https://predictive-mantra.lovable.app/)
+(https://predictive-mantra.lovable.app)
 
 ---
 
